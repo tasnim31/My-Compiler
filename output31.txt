@@ -1,0 +1,38 @@
+
+
+Header_File
+
+
+Integer_Type  Main_Function  (   ) 
+
+{ 
+
+A single line comment
+$$ we want to print factorial of 5
+
+
+Integer_Type   An_ID   ,   An_ID   ,   An_ID   ;  
+
+ An_ID  = 1  ; 
+
+ An_ID  = 5  ; 
+
+For_Loop (   An_ID  = 1  ;   An_ID   <=   An_ID   ;   An_ID  ++  ) 
+
+{ 
+
+ An_ID  =  An_ID   *   An_ID   ; 
+
+If (   An_ID   >  100 == 0  ) 
+
+{ 
+
+ An_ID  =  An_ID   -  100  ; 
+
+} 
+
+} 
+
+Return  0  ; 
+
+} 

@@ -1,0 +1,33 @@
+
+
+@headerfile.h
+
+int core lfb rfb
+
+lsb
+
+$$ we want to print factorial of 5
+
+int a1 cm b1 cm c1 cm d1 sc 
+
+b1 : 1 sc
+
+loopf lfb a1 : 1 sc a1 smallorequal 5 sc a1 inc rfb
+
+lsb
+
+b1 : b1 mul a1 sc
+
+iff lfb b1 bigger 100 :: 0 rfb
+
+lsb
+
+b1 : b1 sub 100 sc
+
+rsb
+
+rsb
+
+back 0 sc
+
+rsb
