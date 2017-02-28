@@ -19,7 +19,6 @@
 %left Plus Minus
 %left Multiply Divide
 %left Mod
-%left Fact
 %right Inc
 
 %nonassoc If
