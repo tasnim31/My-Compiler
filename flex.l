@@ -2,7 +2,7 @@
 	#include <stdio.h>
 	#include <string.h>
 	#include <stdlib.h>
-	#include "lab31.tab.h"
+	#include "bison.tab.h"
 %}
 
 
